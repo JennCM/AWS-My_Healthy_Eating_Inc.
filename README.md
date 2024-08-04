@@ -30,7 +30,7 @@
 
 ## Additional Information:
 
-- Conducted an assessment of the on-premises environment and developed a comprehensive migration plan.
+- Assessed the on-premises environment and developed a comprehensive migration plan.
 - Executed data migration of 2 TB using AWS DataSync.
 - Migrated the e-commerce application to EC2 instances and configured ELB and CloudFront.
 - Migrated the MySQL database to Amazon RDS using AWS Database Migration Service (DMS).
